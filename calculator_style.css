@@ -1,0 +1,22 @@
+div
+{
+    border:1px solid black;
+    text-align: center;
+    width: 300px;
+    height: 250px;
+}
+textarea
+{
+    width: 280px;
+    height: 40px;
+}
+
+button{
+    border-color: aquamarine;
+    width: 70px;
+    height: 32px;
+    font: 1em sans-serif;
+}
+button:hover{
+    cursor: pointer;
+}
